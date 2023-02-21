@@ -1,0 +1,17 @@
+[
+    {
+        "name":"mubarak",
+        "age":27,
+        "role":"frontend"
+    },
+    {
+        "name":"musa",
+        "age":20,
+        "role":"backend"
+    },
+    {
+        "name":"isaac",
+        "age":20,
+        "role":"intern"
+    }
+]
